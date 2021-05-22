@@ -161,6 +161,14 @@ p {
   .title-image {
     position: static;
     transform: rotate(0);
+   
+  }
+  
+  .img-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 
   #title {
